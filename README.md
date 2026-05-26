@@ -1,6 +1,6 @@
 # 📈 ETF-Vergleicher – ETF Comparison Web App
 
-![UI Showcase](docs/ui-images/ui_showcase.png)
+![UI Showcase](docs/Startseite.png)
 
 ---
 
@@ -71,7 +71,7 @@ The application allows users to:
 
 ## 🧩 Use Cases
 
-![UML Use Case Diagram](C:\Users\mateo\Documents\Studium\2. Semester\Objektorientiertes Programmieren\Projekt\Bilder)
+![UML Use Case Diagram](docs/Use_Cases_ETF.drawio.png)
 
 ### Main Use Cases
 - Add ETF (User)
@@ -89,13 +89,15 @@ The application allows users to:
 
 > 🚧 Add screenshots of the wireframe mockups you chose to implement.
 
-![Wireframes](docs/ui-images/wireframes.png)
+![Wireframes1](docs/Detail-Analyse.png)
+
+![Wireframes2](docs/Vergleich.png)
 
 ---
 
 ## 🏛️ Architecture
 
-![UML Class Diagram](docs/architecture-diagrams/uml_class_architecture.png)
+![UML Class Diagram](docs/Architecture.drawio.png)
 
 ### Layers
 - **UI:** NiceGUI (browser-based interface)
