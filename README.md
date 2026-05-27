@@ -323,5 +323,3 @@ pytest --cov
 ## 📝 License
 
 This project is provided for **educational use only** as part of the Advanced Programming module.
-
-[MIT License](LICENSE)
