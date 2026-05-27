@@ -87,7 +87,6 @@ The application allows users to:
 
 ### Wireframes / Mockups
 
-> 🚧 Add screenshots of the wireframe mockups you chose to implement.
 
 ![Wireframes1](docs/Detail-Analyse.png)
 
@@ -141,7 +140,6 @@ The application uses **SQLModel** to map domain objects to a SQLite database (`e
 
 ## ✅ Project Requirements
 
-> 🚧 Requirements act as a contract: implement and demonstrate each point below.
 
 Each app must meet the following criteria in order to be accepted (see also the official project guidelines PDF on Moodle):
 
@@ -286,7 +284,6 @@ etf_app/
 
 ## 🧪 Testing
 
-> 🚧 Explain what you test and how to run tests.
 
 **Test mix:**
 - Overall 12 tests
@@ -314,13 +311,12 @@ pytest --cov
 
 ## 👥 Team & Contributions
 
-> 🚧 Fill in the names of all team members and describe their individual contributions below.
 
 | Name | Contribution |
 |---|---|
-| Student A | NiceGUI UI + documentation |
-| Student B | Database & ORM + documentation |
-| Student C | Business logic + documentation |
+| Mateo  | NiceGUI UI + docs + Readme |
+| Janis  | database + etf + main + models |
+| Cyrill | services + Readme |
 
 ---
 
